@@ -1,0 +1,6 @@
+
+{{#user}}
+Name: sneha manda
+Skills: Python, sql , figma
+Email: mandasneha8@gmail.com
+{{/user}}
